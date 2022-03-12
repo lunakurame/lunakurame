@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm a 💻 software engineer working mostly on front-end web dev and a bunch of free software projects. I love creating pretty sparkly animated things with great UX. I use 🍎 Macs and 🐧 Gentoo Linux.
+
+#### Some of my projects:
+
+- 🦊 I created the [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) project. Now maintained by [Rafael](https://github.com/rafaelmardojai) (thanks a lot for your hard work!).
+- 🐿 I made the [Squirrel Tale](https://github.com/lunakurame/squirrel-tale) game in Canvas API from scratch.
+- 💾 I wrote a [Tic Tac Toe](https://github.com/lunakurame/ancient-tictactoe) game for MS-DOS.
+- 🤖 I helped [Pizzacus](https://github.com/Pizzacus) with her most devilish Discord bot called [Satania](https://github.com/Pizzacus/SataniaBot).
+- 🔔 I contributed to the [dunst](https://github.com/dunst-project/dunst) project which brings desktop notifications to Linux setups.
+
 <!--
 **lunakurame/lunakurame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
